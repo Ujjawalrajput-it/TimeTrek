@@ -23,10 +23,6 @@ TimeTrek is a sleek, real-time countdown application that helps you track your u
 - **LocalStorage** – For persistence
 - **CSS** – Custom styling with responsiveness
 
-## 📷 Screenshots
-
-> (Add screenshots here if available)
-
 ## 🧪 Setup & Run Locally
 
 ```bash
